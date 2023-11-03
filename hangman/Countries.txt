@@ -1,0 +1,22 @@
+EASY
+Germany
+Spain
+Italy
+Russia
+Greece
+MEDIUM
+Ireland
+Sweden
+Norway
+Ukraine
+Hungary
+Romania
+HARD
+Czech Republic
+Netherland
+Lithuania
+Belarus
+Latvia
+Denmark
+United Kingdom
+Switzerland

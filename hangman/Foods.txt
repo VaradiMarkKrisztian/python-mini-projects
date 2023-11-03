@@ -1,0 +1,14 @@
+EASY
+Soup
+Pizza
+Pasta
+Hamburger
+MEDIUM
+Tortillia
+Maccaronni
+Popcorn
+Steak
+HARD
+Bolognesse
+Fried Chicken
+Mashed Potatoes
